@@ -22,9 +22,7 @@ The **React Movie Search App** is a sleek and intuitive application that allows 
 ## 🚀 Live Demo
 🔗 [Live Preview](https://rajbhor123.github.io/React-Using-Movie-Search/)
 
-## 📺 Screenshots
-### Home Page:
-![Movie Search App](public/MovieSearch.png)
+
 
 
 ## 📥 Installation & Setup
