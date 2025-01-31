@@ -24,7 +24,7 @@ The **React Movie Search App** is a sleek and intuitive application that allows 
 
 ## 📺 Screenshots
 ### Home Page:
-![Movie Search App](public/Movie Search.png)
+![Movie Search App](public/MovieSearch.png)
 
 
 ## 📥 Installation & Setup
