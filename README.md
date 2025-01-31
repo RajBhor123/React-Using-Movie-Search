@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Getting Started with React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Movie Search](https://github.com/user-attachments/assets/e9f00d2e-45d4-4cdb-848d-3b352e3375bc)# Getting Started with React App
 
-## Available Scripts
+# 🎬 React Movie Search App
 
-In the project directory, you can run:
+## 📌 Overview
+The **React Movie Search App** is a sleek and intuitive application that allows users to search for movies using the OMDB API. With a beautiful UI and real-time search functionality, users can quickly find movie details, including the title, release year, and poster.
 
-### `npm start`
+## 🌟 Features
+- 🔍 **Search for Movies**: Find movies instantly by entering keywords.
+- 🎭 **Movie Details**: View essential details like title, year, and poster.
+- ⏳ **Loading Indicator**: Displays a loading message while fetching data.
+- ⚠ **Error Handling**: Shows meaningful error messages for invalid searches.
+- 🎨 **Responsive UI**: Clean and modern design, optimized for all devices.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠 Tech Stack
+- **Frontend**: React.js
+- **Styling**: CSS
+- **API**: [OMDB API](https://www.omdbapi.com/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Live Demo
+🔗 [Live Preview](https://rajbhor123.github.io/React-Using-Movie-Search/)
 
-### `npm test`
+## 📺 Screenshots
+### Home Page:
+![Movie Search App](public/Movie Search.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## 📥 Installation & Setup
+Follow these steps to run the Movie Search App locally:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. **Clone the Repository**:
+   ```sh
+   git clone https://github.com/your-username/movie-search-app.git
+   cd movie-search-app
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. **Install Dependencies**:
+   ```sh
+   npm install
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. **Run the Application**:
+   ```sh
+   npm start
+   ```
+   The app will open at `http://localhost:3000/`
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🔮 Future Enhancements
+- 📌 Add **movie details page** with ratings and plot summary.
+- 🌙 Implement **dark mode** for a better user experience.
+- 🎬 Include **favorite movies** feature for saving favorite titles.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
+Developed with ❤️ by [Your Name](https://github.com/your-username)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
